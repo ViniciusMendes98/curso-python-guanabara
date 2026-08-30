@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 15 - mundo 1">
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 35 - mundo 1">
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex034.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex027.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +162,19 @@
     "Python.ex019.executor": "Run",
     "Python.ex020.executor": "Run",
     "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -177,6 +203,37 @@
       <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\tratando-dados-e-fazendo-contas" />
       <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\primeiros-passos" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ex033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="curso-python-guanabara" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex033.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex033" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -241,7 +298,47 @@
       <option name="project" value="LOCAL" />
       <updated>1788085066694</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="resolução até o exercio 21 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788119821726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788119821727</updated>
+    </task>
+    <task id="LOCAL-00008" summary="resolução até o exercio 21 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788119894701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1788119894701</updated>
+    </task>
+    <task id="LOCAL-00009" summary="resolução até o exercio 27 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788124910414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1788124910414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="resolução até o exercio 35 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788127264603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1788127264603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="resolução até o exercio 35 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788127462204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1788127462204</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +350,9 @@
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
     <MESSAGE value="resolução até o exercio 8 - mundo 1" />
     <MESSAGE value="resolução até o exercio 15 - mundo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 15 - mundo 1" />
+    <MESSAGE value="resolução até o exercio 21 - mundo 1" />
+    <MESSAGE value="resolução até o exercio 27 - mundo 1" />
+    <MESSAGE value="resolução até o exercio 35 - mundo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 35 - mundo 1" />
   </component>
 </project>

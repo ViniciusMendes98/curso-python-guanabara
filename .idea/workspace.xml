@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1">
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex004.py" beforeDir="false" />
-    </list>
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +132,12 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\tratando-dados-e-fazendo-contas" />
+      <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\primeiros-passos" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -168,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788080043773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adicionei os exercicios 3 e 4 do mundo 1">
+      <option name="closed" value="true" />
+      <created>1788080502040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788080502040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

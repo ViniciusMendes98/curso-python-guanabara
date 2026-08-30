@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 8 - mundo 1">
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex015.py" afterDir="false" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 15 - mundo 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,88 +35,88 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ViniciusMendes98"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ViniciusMendes98&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ViniciusMendes98/curso-python-guanabara.git",
-    "accountId": "f11b8a23-9056-4ec2-94e0-d1ac699d07cf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ViniciusMendes98/curso-python-guanabara.git&quot;,
+    &quot;accountId&quot;: &quot;f11b8a23-9056-4ec2-94e0-d1ac699d07cf&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000188920064" />
-      <entry key="MS500" value="1.0365463048418844" />
-      <entry key="S2" value="1.8979711707775873" />
-      <entry key="S5" value="3.2690020003089635" />
-      <entry key="S10" value="4.303233593068593" />
-      <entry key="S30" value="5.99979031778299" />
-      <entry key="S60" value="8.147861207534387" />
-      <entry key="M2" value="11.303717797027055" />
-      <entry key="M5" value="18.934711963602876" />
-      <entry key="M10" value="33.051999274237" />
-      <entry key="M15" value="46.29185990917887" />
-      <entry key="M30" value="75.65881969166558" />
-      <entry key="H1" value="106.58689021971774" />
-      <entry key="H2" value="131.10153997498844" />
-      <entry key="H4" value="146.95327184570243" />
-      <entry key="D1" value="162.57179732003522" />
-      <entry key="W1" value="165.5035740278243" />
+      <entry key="MS100" value="1.004100455795412" />
+      <entry key="MS500" value="1.3352940833358586" />
+      <entry key="S2" value="2.273896479315314" />
+      <entry key="S5" value="3.6174286372040836" />
+      <entry key="S10" value="4.561064559806535" />
+      <entry key="S30" value="5.683626483416295" />
+      <entry key="S60" value="6.795506883674482" />
+      <entry key="M2" value="8.751135371079098" />
+      <entry key="M5" value="15.22100932596022" />
+      <entry key="M10" value="24.284004645327542" />
+      <entry key="M15" value="32.430744994058955" />
+      <entry key="M30" value="57.88139599076001" />
+      <entry key="H1" value="98.49015528684154" />
+      <entry key="H2" value="140.45808652119683" />
+      <entry key="H4" value="171.92317988504058" />
+      <entry key="D1" value="206.0915442062394" />
+      <entry key="W1" value="212.8458300468484" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="7.746629678906869E-187" />
-      <entry key="S5" value="3.6310795589338533E-75" />
-      <entry key="S10" value="6.599928645439854E-38" />
-      <entry key="S30" value="5.735509859516938E-13" />
-      <entry key="S60" value="1.0524157587175064E-6" />
-      <entry key="M2" value="0.0014442588590767415" />
-      <entry key="M5" value="0.11066259425129288" />
-      <entry key="M10" value="0.47036616364352296" />
-      <entry key="M15" value="0.7619908249126682" />
-      <entry key="M30" value="1.2344714462306519" />
-      <entry key="H1" value="1.5712790399703112" />
-      <entry key="H2" value="1.7727239215459556" />
-      <entry key="H4" value="1.882935366098326" />
-      <entry key="D1" value="1.9799955431042084" />
-      <entry key="W1" value="1.9971298915332496" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.818134425495794E-270" />
+      <entry key="S10" value="2.8599216646219063E-135" />
+      <entry key="S30" value="2.0145451092960286E-45" />
+      <entry key="S60" value="6.237202229043619E-23" />
+      <entry key="M2" value="1.1118502079522264E-11" />
+      <entry key="M5" value="6.28870675250329E-5" />
+      <entry key="M10" value="0.0112128579668901" />
+      <entry key="M15" value="0.0631155795256232" />
+      <entry key="M30" value="0.35528303087484764" />
+      <entry key="H1" value="0.8429465263402008" />
+      <entry key="H2" value="1.2984177959168295" />
+      <entry key="H4" value="1.611469498222343" />
+      <entry key="D1" value="1.929280281342251" />
+      <entry key="W1" value="1.9897406422345252" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726549656607607" />
-      <entry key="MS500" value="1.0307635447732357" />
-      <entry key="S2" value="1.8948428265553312" />
-      <entry key="S5" value="3.2664235549303675" />
-      <entry key="S10" value="4.30138200611097" />
-      <entry key="S30" value="5.998857838097576" />
-      <entry key="S60" value="8.147189796385923" />
-      <entry key="M2" value="11.304628866370786" />
-      <entry key="M5" value="19.044070733023933" />
-      <entry key="M10" value="33.51979218421166" />
-      <entry key="M15" value="47.05094312106568" />
-      <entry key="M30" value="76.89072943835106" />
-      <entry key="H1" value="108.15643626686953" />
-      <entry key="H2" value="132.87324941274463" />
-      <entry key="H4" value="148.83565726130527" />
-      <entry key="D1" value="164.55169470358706" />
-      <entry key="W1" value="167.50068972925618" />
+      <entry key="MS100" value="0.9434020167743213" />
+      <entry key="MS500" value="1.3191857766836712" />
+      <entry key="S2" value="2.266821670387795" />
+      <entry key="S5" value="3.6127355706326933" />
+      <entry key="S10" value="4.557900574890772" />
+      <entry key="S30" value="5.676906972375613" />
+      <entry key="S60" value="6.786035451302041" />
+      <entry key="M2" value="8.74279833464428" />
+      <entry key="M5" value="15.215571444185462" />
+      <entry key="M10" value="24.29113532048403" />
+      <entry key="M15" value="32.49035504128651" />
+      <entry key="M30" value="58.23384339864543" />
+      <entry key="H1" value="99.33095354962381" />
+      <entry key="H2" value="141.75510027857024" />
+      <entry key="H4" value="173.53383389576348" />
+      <entry key="D1" value="208.0206692492756" />
+      <entry key="W1" value="214.83554798440994" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IcxgwwM2oDz8QZE1fNzRA9l6pn" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -150,24 +143,36 @@
     "Python.ex013.executor": "Run",
     "Python.ex014.executor": "Run",
     "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vinic/PycharmProjects/curso-python-guanabara/mundo-1-fundamentos/utilizando-modulos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\utilizando-modulos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\tratando-dados-e-fazendo-contas" />
       <recent name="C:\Users\vinic\PycharmProjects\curso-python-guanabara\mundo-1-fundamentos\primeiros-passos" />
@@ -228,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788082995041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="resolução até o exercio 15 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788085066694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788085066694</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +252,7 @@
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1" />
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
     <MESSAGE value="resolução até o exercio 8 - mundo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 8 - mundo 1" />
+    <MESSAGE value="resolução até o exercio 15 - mundo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 15 - mundo 1" />
   </component>
 </project>

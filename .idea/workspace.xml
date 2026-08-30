@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="commit inicial">
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1">
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex004.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +43,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000039232192648" />
-      <entry key="MS500" value="1.1208474396361767" />
-      <entry key="S2" value="2.082241899942239" />
-      <entry key="S5" value="3.781635527813575" />
-      <entry key="S10" value="6.1225339752280155" />
-      <entry key="S30" value="9.811587707434008" />
-      <entry key="S60" value="11.716509214090612" />
-      <entry key="M2" value="14.18605876382567" />
-      <entry key="M5" value="18.469474333948583" />
-      <entry key="M10" value="22.54703821063554" />
-      <entry key="M15" value="25.01273058718334" />
-      <entry key="M30" value="28.59993233326702" />
-      <entry key="H1" value="31.01494015635535" />
-      <entry key="H2" value="32.42716068051752" />
-      <entry key="H4" value="33.19223914957152" />
-      <entry key="D1" value="33.862295064991514" />
-      <entry key="W1" value="33.98025094806238" />
+      <entry key="MS100" value="1.0087915177128746" />
+      <entry key="MS500" value="1.4973396138625772" />
+      <entry key="S2" value="3.2518403168753798" />
+      <entry key="S5" value="5.730302029888721" />
+      <entry key="S10" value="7.873926834851693" />
+      <entry key="S30" value="10.474312071528418" />
+      <entry key="S60" value="12.688173245168288" />
+      <entry key="M2" value="16.765053096809623" />
+      <entry key="M5" value="24.202528337434167" />
+      <entry key="M10" value="30.373374532495998" />
+      <entry key="M15" value="33.83374222299969" />
+      <entry key="M30" value="38.72779752337971" />
+      <entry key="H1" value="41.98457778453961" />
+      <entry key="H2" value="43.88447402369614" />
+      <entry key="H4" value="44.91344991645168" />
+      <entry key="D1" value="45.81474356021886" />
+      <entry key="W1" value="45.973430550447034" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,23 +81,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460613814727811" />
-      <entry key="MS500" value="1.108389547724276" />
-      <entry key="S2" value="2.075847035249613" />
-      <entry key="S5" value="3.7763425662625814" />
-      <entry key="S10" value="6.117994016909938" />
-      <entry key="S30" value="9.809087919180124" />
-      <entry key="S60" value="11.715005128996799" />
-      <entry key="M2" value="14.185142170416867" />
-      <entry key="M5" value="18.469001965680334" />
-      <entry key="M10" value="22.54675890993287" />
-      <entry key="M15" value="25.01252818403373" />
-      <entry key="M30" value="28.599819713670147" />
-      <entry key="H1" value="31.01488007507274" />
-      <entry key="H2" value="32.42712954600826" />
-      <entry key="H4" value="33.19222328709988" />
-      <entry key="D1" value="33.86229237824627" />
-      <entry key="W1" value="33.980250563161434" />
+      <entry key="MS100" value="0.9476126343013708" />
+      <entry key="MS500" value="1.477234391124726" />
+      <entry key="S2" value="3.2410053834006143" />
+      <entry key="S5" value="5.722706520385226" />
+      <entry key="S10" value="7.8687028524066065" />
+      <entry key="S30" value="10.471987435828753" />
+      <entry key="S60" value="12.686740529017756" />
+      <entry key="M2" value="16.76407666568863" />
+      <entry key="M5" value="24.201949896366713" />
+      <entry key="M10" value="30.37301395509376" />
+      <entry key="M15" value="33.83347693055355" />
+      <entry key="M30" value="38.727647983611675" />
+      <entry key="H1" value="41.98449755560533" />
+      <entry key="H2" value="43.88443233884711" />
+      <entry key="H4" value="44.913428651597734" />
+      <entry key="D1" value="45.81473995465319" />
+      <entry key="W1" value="45.97343003382449" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -128,8 +129,10 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
@@ -157,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788079001419</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adicionei os exercicios 3 e 4 do mundo 1">
+      <option name="closed" value="true" />
+      <created>1788080043773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788080043773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
+    <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionei os exercicios 3 e 4 do mundo 1" />
   </component>
 </project>

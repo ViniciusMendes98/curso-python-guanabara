@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 35 - mundo 1">
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/utilizando-modulos/ex027.py" afterDir="false" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python">
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788127462204</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python">
+      <option name="closed" value="true" />
+      <created>1788129483702</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1788129483702</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +348,7 @@
     <MESSAGE value="resolução até o exercio 21 - mundo 1" />
     <MESSAGE value="resolução até o exercio 27 - mundo 1" />
     <MESSAGE value="resolução até o exercio 35 - mundo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 35 - mundo 1" />
+    <MESSAGE value="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python" />
   </component>
 </project>

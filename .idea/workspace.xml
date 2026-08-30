@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas">
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex006.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,23 +50,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0087915177128746" />
-      <entry key="MS500" value="1.4973396138625772" />
-      <entry key="S2" value="3.2518403168753798" />
-      <entry key="S5" value="5.730302029888721" />
-      <entry key="S10" value="7.873926834851693" />
-      <entry key="S30" value="10.474312071528418" />
-      <entry key="S60" value="12.688173245168288" />
-      <entry key="M2" value="16.765053096809623" />
-      <entry key="M5" value="24.202528337434167" />
-      <entry key="M10" value="30.373374532495998" />
-      <entry key="M15" value="33.83374222299969" />
-      <entry key="M30" value="38.72779752337971" />
-      <entry key="H1" value="41.98457778453961" />
-      <entry key="H2" value="43.88447402369614" />
-      <entry key="H4" value="44.91344991645168" />
-      <entry key="D1" value="45.81474356021886" />
-      <entry key="W1" value="45.973430550447034" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000101793149543" />
+      <entry key="S2" value="1.056484545752623" />
+      <entry key="S5" value="1.3170394864283312" />
+      <entry key="S10" value="1.5887169419448892" />
+      <entry key="S30" value="2.549547724404351" />
+      <entry key="S60" value="4.238644280079127" />
+      <entry key="M2" value="8.159416795932941" />
+      <entry key="M5" value="16.042412842690993" />
+      <entry key="M10" value="23.248459296081386" />
+      <entry key="M15" value="29.113770615214303" />
+      <entry key="M30" value="42.3545418785101" />
+      <entry key="H1" value="55.794043877989004" />
+      <entry key="H2" value="65.7738632802633" />
+      <entry key="H4" value="71.91536847980207" />
+      <entry key="D1" value="77.74722394627685" />
+      <entry key="W1" value="78.81917663298151" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,23 +88,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9476126343013708" />
-      <entry key="MS500" value="1.477234391124726" />
-      <entry key="S2" value="3.2410053834006143" />
-      <entry key="S5" value="5.722706520385226" />
-      <entry key="S10" value="7.8687028524066065" />
-      <entry key="S30" value="10.471987435828753" />
-      <entry key="S60" value="12.686740529017756" />
-      <entry key="M2" value="16.76407666568863" />
-      <entry key="M5" value="24.201949896366713" />
-      <entry key="M10" value="30.37301395509376" />
-      <entry key="M15" value="33.83347693055355" />
-      <entry key="M30" value="38.727647983611675" />
-      <entry key="H1" value="41.98449755560533" />
-      <entry key="H2" value="43.88443233884711" />
-      <entry key="H4" value="44.913428651597734" />
-      <entry key="D1" value="45.81473995465319" />
-      <entry key="W1" value="45.97343003382449" />
+      <entry key="MS100" value="7.619205010385816E-5" />
+      <entry key="MS500" value="0.15010080672670637" />
+      <entry key="S2" value="0.6472373942520221" />
+      <entry key="S5" value="1.055421696615771" />
+      <entry key="S10" value="1.412804917426542" />
+      <entry key="S30" value="2.47421327952092" />
+      <entry key="S60" value="4.198136456645379" />
+      <entry key="M2" value="8.138206364195145" />
+      <entry key="M5" value="16.033547254160606" />
+      <entry key="M10" value="23.243906716607757" />
+      <entry key="M15" value="29.110682328126373" />
+      <entry key="M30" value="42.35294333661463" />
+      <entry key="H1" value="55.79321837610779" />
+      <entry key="H2" value="65.77344099396458" />
+      <entry key="H4" value="71.91515443130885" />
+      <entry key="D1" value="77.74718781439726" />
+      <entry key="W1" value="78.81917145931689" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -115,6 +127,8 @@
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex004.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -177,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788080502040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas">
+      <option name="closed" value="true" />
+      <created>1788081418222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788081418222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +208,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit inicial" />
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionei os exercicios 3 e 4 do mundo 1" />
+    <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
   </component>
 </project>

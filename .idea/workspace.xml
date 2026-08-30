@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas">
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" afterDir="false" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="resolução até o exercio 8 - mundo 1">
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/primeiros-passos/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/tratando-dados-e-fazendo-contas/ex011.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -50,62 +60,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000101793149543" />
-      <entry key="S2" value="1.056484545752623" />
-      <entry key="S5" value="1.3170394864283312" />
-      <entry key="S10" value="1.5887169419448892" />
-      <entry key="S30" value="2.549547724404351" />
-      <entry key="S60" value="4.238644280079127" />
-      <entry key="M2" value="8.159416795932941" />
-      <entry key="M5" value="16.042412842690993" />
-      <entry key="M10" value="23.248459296081386" />
-      <entry key="M15" value="29.113770615214303" />
-      <entry key="M30" value="42.3545418785101" />
-      <entry key="H1" value="55.794043877989004" />
-      <entry key="H2" value="65.7738632802633" />
-      <entry key="H4" value="71.91536847980207" />
-      <entry key="D1" value="77.74722394627685" />
-      <entry key="W1" value="78.81917663298151" />
+      <entry key="MS100" value="1.0000000188920064" />
+      <entry key="MS500" value="1.0365463048418844" />
+      <entry key="S2" value="1.8979711707775873" />
+      <entry key="S5" value="3.2690020003089635" />
+      <entry key="S10" value="4.303233593068593" />
+      <entry key="S30" value="5.99979031778299" />
+      <entry key="S60" value="8.147861207534387" />
+      <entry key="M2" value="11.303717797027055" />
+      <entry key="M5" value="18.934711963602876" />
+      <entry key="M10" value="33.051999274237" />
+      <entry key="M15" value="46.29185990917887" />
+      <entry key="M30" value="75.65881969166558" />
+      <entry key="H1" value="106.58689021971774" />
+      <entry key="H2" value="131.10153997498844" />
+      <entry key="H4" value="146.95327184570243" />
+      <entry key="D1" value="162.57179732003522" />
+      <entry key="W1" value="165.5035740278243" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="7.746629678906869E-187" />
+      <entry key="S5" value="3.6310795589338533E-75" />
+      <entry key="S10" value="6.599928645439854E-38" />
+      <entry key="S30" value="5.735509859516938E-13" />
+      <entry key="S60" value="1.0524157587175064E-6" />
+      <entry key="M2" value="0.0014442588590767415" />
+      <entry key="M5" value="0.11066259425129288" />
+      <entry key="M10" value="0.47036616364352296" />
+      <entry key="M15" value="0.7619908249126682" />
+      <entry key="M30" value="1.2344714462306519" />
+      <entry key="H1" value="1.5712790399703112" />
+      <entry key="H2" value="1.7727239215459556" />
+      <entry key="H4" value="1.882935366098326" />
+      <entry key="D1" value="1.9799955431042084" />
+      <entry key="W1" value="1.9971298915332496" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.619205010385816E-5" />
-      <entry key="MS500" value="0.15010080672670637" />
-      <entry key="S2" value="0.6472373942520221" />
-      <entry key="S5" value="1.055421696615771" />
-      <entry key="S10" value="1.412804917426542" />
-      <entry key="S30" value="2.47421327952092" />
-      <entry key="S60" value="4.198136456645379" />
-      <entry key="M2" value="8.138206364195145" />
-      <entry key="M5" value="16.033547254160606" />
-      <entry key="M10" value="23.243906716607757" />
-      <entry key="M15" value="29.110682328126373" />
-      <entry key="M30" value="42.35294333661463" />
-      <entry key="H1" value="55.79321837610779" />
-      <entry key="H2" value="65.77344099396458" />
-      <entry key="H4" value="71.91515443130885" />
-      <entry key="D1" value="77.74718781439726" />
-      <entry key="W1" value="78.81917145931689" />
+      <entry key="MS100" value="0.9726549656607607" />
+      <entry key="MS500" value="1.0307635447732357" />
+      <entry key="S2" value="1.8948428265553312" />
+      <entry key="S5" value="3.2664235549303675" />
+      <entry key="S10" value="4.30138200611097" />
+      <entry key="S30" value="5.998857838097576" />
+      <entry key="S60" value="8.147189796385923" />
+      <entry key="M2" value="11.304628866370786" />
+      <entry key="M5" value="19.044070733023933" />
+      <entry key="M10" value="33.51979218421166" />
+      <entry key="M15" value="47.05094312106568" />
+      <entry key="M30" value="76.89072943835106" />
+      <entry key="H1" value="108.15643626686953" />
+      <entry key="H2" value="132.87324941274463" />
+      <entry key="H4" value="148.83565726130527" />
+      <entry key="D1" value="164.55169470358706" />
+      <entry key="W1" value="167.50068972925618" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
@@ -129,6 +142,14 @@
     "Python.ex004.executor": "Run",
     "Python.ex006.executor": "Run",
     "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -199,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788081418222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="resolução até o exercio 8 - mundo 1">
+      <option name="closed" value="true" />
+      <created>1788082995041</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788082995041</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +238,7 @@
     <MESSAGE value="commit inicial" />
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1" />
     <MESSAGE value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionei os exercicios 3 e 4 do mundo 1 em suas respectivas pastas" />
+    <MESSAGE value="resolução até o exercio 8 - mundo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução até o exercio 8 - mundo 1" />
   </component>
 </project>

@@ -1,36 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso-python-guanabara.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-python-guanabara.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/ex002.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ViniciusMendes98"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ViniciusMendes98/curso-python-guanabara.git",
+    "accountId": "f11b8a23-9056-4ec2-94e0-d1ac699d07cf"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000503226" />
+      <entry key="MS500" value="1.0096711147154513" />
+      <entry key="S2" value="1.796778669494064" />
+      <entry key="S5" value="3.6998493097447893" />
+      <entry key="S10" value="5.277603377966675" />
+      <entry key="S30" value="6.917804100985241" />
+      <entry key="S60" value="7.433099387909654" />
+      <entry key="M2" value="7.709754002384704" />
+      <entry key="M5" value="7.882224177135345" />
+      <entry key="M10" value="7.940828546432923" />
+      <entry key="M15" value="7.960489057093017" />
+      <entry key="M30" value="7.980212800135995" />
+      <entry key="H1" value="7.990098453904589" />
+      <entry key="H2" value="7.995047238650919" />
+      <entry key="H4" value="7.9975231220298655" />
+      <entry key="D1" value="7.999587117917442" />
+      <entry key="W1" value="7.999941015153167" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9526379980915456" />
+      <entry key="MS500" value="0.9999095224076741" />
+      <entry key="S2" value="1.7923774971532476" />
+      <entry key="S5" value="3.696101080740093" />
+      <entry key="S10" value="5.274846446770721" />
+      <entry key="S30" value="6.916565479126147" />
+      <entry key="S60" value="7.432428688762487" />
+      <entry key="M2" value="7.709404754797613" />
+      <entry key="M5" value="7.882080998433095" />
+      <entry key="M10" value="7.940756364700418" />
+      <entry key="M15" value="7.960440803360874" />
+      <entry key="M30" value="7.980188606745622" />
+      <entry key="H1" value="7.990086340533987" />
+      <entry key="H2" value="7.995041177791205" />
+      <entry key="H4" value="7.997520090555712" />
+      <entry key="D1" value="7.999586612526651" />
+      <entry key="W1" value="7.999940942950928" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3IcxgwwM2oDz8QZE1fNzRA9l6pn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SharedIndexes">

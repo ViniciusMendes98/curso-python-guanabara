@@ -3,14 +3,20 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python">
-      <change beforePath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundo-1-fundamentos/Condicoes-em-python-if-else/ex033.py" afterDir="false" />
-    </list>
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="coloquei outra forma de resolver o ex033" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/vinic/PycharmProjects/curso-python-guanabara" value="3IiCzBYIiaBkdPDGdcsPsIwWRmS" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,61 +59,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000012410563044" />
-      <entry key="MS500" value="1.065880714913203" />
-      <entry key="S2" value="1.5150235900511304" />
-      <entry key="S5" value="1.9833804127388501" />
-      <entry key="S10" value="2.537203837136831" />
-      <entry key="S30" value="3.3402173332334604" />
-      <entry key="S60" value="3.6415580894026145" />
-      <entry key="M2" value="3.8191270393354064" />
-      <entry key="M5" value="4.774750708677601" />
-      <entry key="M10" value="9.754206288110892" />
-      <entry key="M15" value="16.491444915418462" />
-      <entry key="M30" value="40.01661155748646" />
-      <entry key="H1" value="81.81870972878555" />
-      <entry key="H2" value="129.10840590673178" />
-      <entry key="H4" value="166.62370419926515" />
-      <entry key="D1" value="208.98289357131398" />
-      <entry key="W1" value="217.5334050018809" />
+      <entry key="MS100" value="2.55189429242346E-6" />
+      <entry key="MS500" value="0.07609787616643664" />
+      <entry key="S2" value="0.5252222720053766" />
+      <entry key="S5" value="0.7729248203689738" />
+      <entry key="S10" value="0.8791883027703006" />
+      <entry key="S30" value="1.044514716779434" />
+      <entry key="S60" value="1.6369425351026634" />
+      <entry key="M2" value="2.93081739337513" />
+      <entry key="M5" value="7.04603600443568" />
+      <entry key="M10" value="14.626859904855035" />
+      <entry key="M15" value="21.40848991241881" />
+      <entry key="M30" value="39.492345662230726" />
+      <entry key="H1" value="76.5781948823457" />
+      <entry key="H2" value="139.64794163521032" />
+      <entry key="H4" value="208.87335928489853" />
+      <entry key="D1" value="308.8752282831434" />
+      <entry key="W1" value="331.9447089593618" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.2266916930475175E-185" />
-      <entry key="S5" value="1.3048019179982082E-74" />
-      <entry key="S10" value="1.725410500377037E-37" />
-      <entry key="S30" value="1.2700471203650772E-12" />
-      <entry key="S60" value="2.220319596543283E-6" />
-      <entry key="M2" value="0.0029685085856617816" />
-      <entry key="M5" value="0.22379096612672802" />
-      <entry key="M10" value="0.9485410519424843" />
-      <entry key="M15" value="1.5532744644680003" />
-      <entry key="M30" value="2.690927283212455" />
-      <entry key="H1" value="3.8048638753185093" />
-      <entry key="H2" value="4.6954715139195145" />
-      <entry key="H4" value="5.282249263804418" />
-      <entry key="D1" value="5.869782832004005" />
-      <entry key="W1" value="5.9811158967178235" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000010191403" />
+      <entry key="S5" value="1.000253100854741" />
+      <entry key="S10" value="1.0159091437463221" />
+      <entry key="S30" value="1.251506338857539" />
+      <entry key="S60" value="1.501504076611087" />
+      <entry key="M2" value="1.7081695253335085" />
+      <entry key="M5" value="1.8710736855241965" />
+      <entry key="M10" value="1.9333884290974945" />
+      <entry key="M15" value="1.957897981222113" />
+      <entry key="M30" value="2.0928296857017337" />
+      <entry key="H1" value="2.7770862572267645" />
+      <entry key="H2" value="4.131817672481177" />
+      <entry key="H4" value="5.561128301815453" />
+      <entry key="D1" value="7.49672454276749" />
+      <entry key="W1" value="7.925276198909233" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330341100393759" />
-      <entry key="MS500" value="1.0507576138978736" />
-      <entry key="S2" value="1.5088832603829054" />
-      <entry key="S5" value="1.9798179559773303" />
-      <entry key="S10" value="2.534697702907581" />
-      <entry key="S30" value="3.3390187994772473" />
-      <entry key="S60" value="3.6408919220853333" />
-      <entry key="M2" value="3.8216998007343026" />
-      <entry key="M5" value="4.996974574547478" />
-      <entry key="M10" value="10.699325587838354" />
-      <entry key="M15" value="18.040749334704444" />
-      <entry key="M30" value="42.703664284118354" />
-      <entry key="H1" value="85.62053428155075" />
-      <entry key="H2" value="133.8018696966449" />
-      <entry key="H4" value="171.90477990710116" />
-      <entry key="D1" value="214.85245149938706" />
-      <entry key="W1" value="223.5144879614615" />
+      <entry key="MS100" value="2.8507283855102163E-6" />
+      <entry key="MS500" value="0.11052957519821757" />
+      <entry key="S2" value="0.9537989068182205" />
+      <entry key="S5" value="1.4854523790994565" />
+      <entry key="S10" value="1.736733431774986" />
+      <entry key="S30" value="2.224960202566683" />
+      <entry key="S60" value="3.0849329334713262" />
+      <entry key="M2" value="4.597848242623481" />
+      <entry key="M5" value="8.892753073988944" />
+      <entry key="M10" value="16.544325938113072" />
+      <entry key="M15" value="23.353756973711487" />
+      <entry key="M30" value="41.576531148943275" />
+      <entry key="H1" value="79.34925255877346" />
+      <entry key="H2" value="143.77566964861055" />
+      <entry key="H4" value="214.43194914160114" />
+      <entry key="D1" value="316.37142435749394" />
+      <entry key="W1" value="339.869906394985" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -120,6 +126,21 @@
   <component name="ProjectId" id="3IcxgwwM2oDz8QZE1fNzRA9l6pn" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -163,6 +184,14 @@
     "Python.ex033.executor": "Run",
     "Python.ex034.executor": "Run",
     "Python.ex036-aprovando-emprestimo.executor": "Run",
+    "Python.ex037-conversor-bases-numericas.executor": "Run",
+    "Python.ex038-comparando-numeros.executor": "Run",
+    "Python.ex039-alistamento-militar.executor": "Run",
+    "Python.ex040-classico-media.executor": "Run",
+    "Python.ex041-classificando-atletas.executor": "Run",
+    "Python.ex042-triangulos-v2.executor": "Run",
+    "Python.ex044-gerenciador-pagamentos.executor": "Run",
+    "Python.ex045-jogo-pedra-papel-tesoura.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -342,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788226392126</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="coloquei outra forma de resolver o ex033">
+      <option name="closed" value="true" />
+      <created>1788229948355</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1788229948355</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +395,7 @@
     <MESSAGE value="resolução até o exercio 27 - mundo 1" />
     <MESSAGE value="resolução até o exercio 35 - mundo 1" />
     <MESSAGE value="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Consertei alguns inputs e alguns prints e resolvi ate o exercio 35 - mundo 1, concluindo o mundo 1 de Python" />
+    <MESSAGE value="coloquei outra forma de resolver o ex033" />
+    <option name="LAST_COMMIT_MESSAGE" value="coloquei outra forma de resolver o ex033" />
   </component>
 </project>

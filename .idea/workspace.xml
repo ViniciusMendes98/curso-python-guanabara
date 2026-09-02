@@ -7,7 +7,15 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="coloquei outra forma de resolver o ex033" />
+    <list default="true" id="9dff3a03-4a05-42ca-8432-65406b748bf5" name="Changes" comment="coloquei outra forma de resolver o ex033">
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex046-contagem-regressiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex047-contagem-pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex048-soma-impares-multiplos-de-tres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex049-tabuada-v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex050-soma-pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundo-2-estruturas-de-controle/Repeticoes-em-Python-for/ex051-progressao-aritmetica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,6 +200,12 @@
     "Python.ex042-triangulos-v2.executor": "Run",
     "Python.ex044-gerenciador-pagamentos.executor": "Run",
     "Python.ex045-jogo-pedra-papel-tesoura.executor": "Run",
+    "Python.ex046-contagem-regressiva.executor": "Run",
+    "Python.ex047-contagem-pares.executor": "Run",
+    "Python.ex048-soma-impares-multiplos-de-tres.executor": "Run",
+    "Python.ex049-tabuada-v2.executor": "Run",
+    "Python.ex050-soma-pares.executor": "Run",
+    "Python.ex051-progressao-aritmetica.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
